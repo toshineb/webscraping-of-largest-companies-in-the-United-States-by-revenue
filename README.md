@@ -37,7 +37,7 @@ Using this dataset, analysts and decision-makers can answer questions like:
 
 ## 🔍 Why This Project Matters
 
-As a data analyst or scientist, being able to **source your own data** — especially from unstructured or semi-structured web content — is a valuable skill. In business environments where data isn't always cleanly packaged, this shows your ability to:
+As a data analyst or scientist, being able to **source your own data** especially from unstructured or semi-structured web content is a valuable skill. In business environments where data isn't always cleanly packaged, this shows your ability to:
 
 - Automate external data collection  
 - Parse and clean raw HTML tables  
