@@ -88,4 +88,4 @@ I’m **Tosin Bello**, a **Data Analyst and Data Scientist** focused on using Py
 
 ---
 
-## ⭐ If you found this useful or insightful, please give it a star — and follow for more real-world data projects that matter.
+## ⭐ If you found this useful or insightful, please give it a star and follow for more real-world data projects that matter.
